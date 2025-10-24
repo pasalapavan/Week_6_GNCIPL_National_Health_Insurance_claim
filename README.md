@@ -54,8 +54,7 @@ SELECT
 FROM nhic
 GROUP BY region
 ORDER BY region;
-
-
+```
 
 💾 Output
 
@@ -91,8 +90,6 @@ Analytical SQL for real-world datasets.
 Pavan Pasala
 📧 pasalapavan28@gmail.com
 
-🔗 LinkedIn
- (Add your link here)
 
 🏁 Conclusion
 
