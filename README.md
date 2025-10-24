@@ -56,7 +56,7 @@ GROUP BY region
 ORDER BY region;
 ```
 
-💾 Output
+## 💾 Output
 
 The final cleaned and combined dataset was exported as:
 
@@ -65,7 +65,7 @@ nhic.csv
 
 This CSV file can be used for further data visualization or predictive modeling in tools like Python, Power BI, or Tableau.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 PostgreSQL
 
@@ -75,7 +75,7 @@ Excel / CSV
 
 Microsoft Word (for documentation)
 
-🧠 Key Learnings
+## 🧠 Key Learnings
 
 Importance of relational database design and normalization.
 
